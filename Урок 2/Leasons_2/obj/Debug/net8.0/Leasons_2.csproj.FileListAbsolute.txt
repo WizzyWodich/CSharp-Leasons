@@ -1,0 +1,15 @@
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\bin\Debug\net8.0\Leasons_2.exe
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\bin\Debug\net8.0\Leasons_2.deps.json
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\bin\Debug\net8.0\Leasons_2.runtimeconfig.json
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\bin\Debug\net8.0\Leasons_2.dll
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\bin\Debug\net8.0\Leasons_2.pdb
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.AssemblyInfoInputs.cache
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.AssemblyInfo.cs
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.csproj.CoreCompileInputs.cache
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.sourcelink.json
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.dll
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\refint\Leasons_2.dll
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.pdb
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\Leasons_2.genruntimeconfig.cache
+C:\Users\kirya\Desktop\programing\Работы\С# Leasons\Урок 2\Leasons_2\obj\Debug\net8.0\ref\Leasons_2.dll
