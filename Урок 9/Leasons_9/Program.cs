@@ -7,7 +7,7 @@ namespace Testing
     {
         static void Main(string[] args)
         {
-            //Урок 9 – Цикл «foreach» для работы с массивами. Generics.
+            //Урок 9 –  Generics.
             // foreach method d-array
             /*{
                 short[,] nums = {
