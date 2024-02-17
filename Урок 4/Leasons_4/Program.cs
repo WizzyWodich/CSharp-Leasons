@@ -12,7 +12,7 @@ namespace Leasons_4
             int a = 10, b = 20;
             // '+' Операция сложения двух чисел:
             int sum = a + b;
-            int sum_2 = a + 5; 
+            int sum_2 = a + 5;
             Console.WriteLine(sum); // Вывод 30
             Console.WriteLine(sum_2); // Вывод 15
 

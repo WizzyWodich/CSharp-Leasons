@@ -1,21 +1,20 @@
 ﻿using System;
-// Вывод массива
-
-namespace Leasons_8._2
+// Вывод массива. Массивы и циклы
+namespace Lessons_8_2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Создам массив
-            int[] array = { 10, 4, 3, 53};
-            // Массив всегда знаем сколько у него элементов. array.Length
-            Console.WriteLine(array[3]); // Вывод 53
-            // Выведим все через for
-            for (int i = 0; i < array.Length; i++) // Каждую итерацию мы будем сдвигаться по элементам массива имея длину нашего масиива.
-                Console.WriteLine($"Элемент масива: {array[i]}");
+            // Создание массива
+            int[] array = { 10, 4, 3, 53 };
 
+            // Выводим элемент массива по индексу (индексация начинается с 0)
+            Console.WriteLine(array[3]); // Выводится 53
+
+            // Выводим все элементы массива с использованием цикла for
+            for (int i = 0; i < array.Length; i++)
+                Console.WriteLine($"Элемент массива: {array[i]}");
         }
     }
 }
-

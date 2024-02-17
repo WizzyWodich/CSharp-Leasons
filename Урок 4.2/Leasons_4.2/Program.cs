@@ -23,7 +23,7 @@ namespace Leasons_4._2
             int a = 5;
             int b = 3;
 
-            Console.WriteLine(a==b); // Сравниваем на равенство. // Вывод False // Не истина
+            Console.WriteLine(a == b); // Сравниваем на равенство. // Вывод False // Не истина
             // ...
             int a1 = 5;
             int b1 = 5;
@@ -47,5 +47,3 @@ namespace Leasons_4._2
         }
     }
 }
-
-
