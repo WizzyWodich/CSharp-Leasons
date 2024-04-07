@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kirya\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Kirill\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirya\\Desktop\\Работы\\С# Leasons\\Урок 18\\Leasons_18\\Leasons_18.csproj",
+      "projectUniqueName": "C:\\Users\\Kirill\\Desktop\\Programing\\Работы\\С# Leasons\\Урок 18\\Leasons_18\\Leasons_18.csproj",
       "projectName": "Leasons_18",
-      "projectPath": "C:\\Users\\kirya\\Desktop\\Работы\\С# Leasons\\Урок 18\\Leasons_18\\Leasons_18.csproj",
-      "packagesPath": "C:\\Users\\kirya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirya\\Desktop\\Работы\\С# Leasons\\Урок 18\\Leasons_18\\obj\\",
+      "projectPath": "C:\\Users\\Kirill\\Desktop\\Programing\\Работы\\С# Leasons\\Урок 18\\Leasons_18\\Leasons_18.csproj",
+      "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kirill\\Desktop\\Programing\\Работы\\С# Leasons\\Урок 18\\Leasons_18\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kirya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
